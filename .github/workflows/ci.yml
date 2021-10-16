@@ -1,4 +1,4 @@
-name: ci-golang-teste
+name: desafio-ci-node
 on: 
   pull_request:
     branches:
